@@ -1,0 +1,9 @@
+{
+  "framework_version": "1.0.0",
+  "target_models": ["claude-3-5-sonnet", "claude-3-opus"],
+  "output_formats": ["json_schema", "xml_variables"],
+  "pipeline_settings": {
+    "cinematic_fidelity": "high",
+    "structured_data_parsing": true
+  }
+}
